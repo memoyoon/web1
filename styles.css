@@ -6,7 +6,7 @@ body {
   .hero-header {
     position: relative;
     height: 100vh;
-    background-image: url("images/hero_image.jpg");
+    background-image: url("hero_image.JPG");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
